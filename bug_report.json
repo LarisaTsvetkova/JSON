@@ -1,7 +1,10 @@
 {
   "ID"="14865",
-  "Title"="Oracle BI 11g Map Viewer:Clicking"logout"reloads the page itself but doesn't logout the user.",
-  "Description"="Steps to reproduce: 1.Open Oracle BI 11g Map Viewer page 2.Click logout link at the top right corner of the page","Actual result: Map Viewer page gets reloaded, but user stays logged in","Expected result: User should be logged out and page gets reloaded","Environment: Reproduced in all browsers".
+  "Title"="Oracle BI 11g Map Viewer:Clicking logout reloads the page itself but doesn't logout the user",
+  "Description"="Steps to reproduce: 1.Open Oracle BI 11g Map Viewer page 2.Click logout link at the top right corner of the page",
+  "Actual result: Map Viewer page gets reloaded, but user stays logged in",
+  "Expected result: User should be logged out and page gets reloaded",
+  "Environment: Reproduced in all browsers",
   "Component"="Map Viewer",
   "Severity"="Major",
   "Priority"="Medium",
