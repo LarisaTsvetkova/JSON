@@ -5,8 +5,8 @@
   "Actual result:Map Viewer page gets reloaded, but user stays logged in",
   "Expected result:User should be logged out and page gets reloaded",
   "Environment:Reproduced in all browsers" }
-  "Component"="Map Viewer",
-  "Severity"="Major",
-  "Priority"="Medium",
-  "Assignie"="John Smitt"
+  "Component":"Map Viewer",
+  "Severity":"Major",
+  "Priority":"Medium",
+  "Assignie":"John Smitt"
 }
